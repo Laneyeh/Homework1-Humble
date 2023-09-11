@@ -1,2 +1,2 @@
-# Homework1-Humble.github.io
+# Laneyeh.github.io
 Homework 1 assignment for Web Development
